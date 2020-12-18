@@ -1,5 +1,3 @@
-## Hello! 👋
-
 ### Find me here!
 <span> 
   <a href="https://twitter.com/zendevv_/">
